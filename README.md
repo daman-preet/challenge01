@@ -57,3 +57,14 @@ npm run test
 # OR using Yarn
 yarn test
 ```
+
+
+https://github.com/daman-preet/challenge01/assets/113502543/b2e65602-4ee2-444a-93d9-be86350b655d
+
+
+https://github.com/daman-preet/challenge01/assets/113502543/1f27582e-afe7-4dfd-bbe3-4b275a5170f9
+
+
+
+
+
